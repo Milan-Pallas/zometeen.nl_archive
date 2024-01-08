@@ -1,0 +1,56 @@
+/* Algemene website opmaak */
+a {
+    color: black;
+}
+
+a:hover {
+    background-color: #e0e0e0;
+}
+
+p {
+    color: black;
+}
+
+/* header */
+header {
+    background-color: white;
+}
+
+.toggle {
+    background-color: white;
+}
+
+.toggle:hover {
+    background-color: #e0e0e0;
+}
+
+/* index.php */
+.titel > p:last-child {
+    border-bottom: black 2px solid;
+}
+
+/* Nieuwsbericht */
+.opmerking > p {
+    border-bottom: 1px solid black;
+}
+
+.textbox {
+    background-color: #f5f5f5;
+}
+
+textarea {
+    background-color: #f5f5f5;
+}
+
+.opmerking_veld {
+    background-color: #f5f5f5;
+}
+
+/* footer */
+td {
+    color: #1f2545;
+}
+
+.voorpagina_footer {
+    color: #1f2442;
+}
